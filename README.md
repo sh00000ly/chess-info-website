@@ -1,2 +1,2 @@
-# Chess-info-website
+# chess-info-website
 Chess info website
